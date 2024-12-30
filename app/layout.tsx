@@ -8,8 +8,8 @@ import PlayerWrapper from "@/components/player/PlayerWrapper";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Clone YT Music",
-  description: "Clone Youtube Music",
+  title: "도헌뮤직",
+  description: "무료로 도헌뮤직을 광고 없이 즐겨보세요!",
 };
 
 export default async function RootLayout({
